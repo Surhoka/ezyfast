@@ -1,0 +1,2 @@
+# ezyfast
+Blogger Config
